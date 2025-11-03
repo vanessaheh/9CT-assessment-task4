@@ -33,13 +33,10 @@ Examples:
 <img src="results.png" width="200" height="150">
 <img src="bars.png" width="150" height="100">
 
-**Storage:**  
-
-
-
-**Transmission**:
+**Storage + Transmission:**    
 The game will operate entirely on the user's device and will not require any network communication or multiplayer support. All calculations will be processed locally, and gameplay data will be temporary and reset when the game is restarted. 
 
+Assuming I have time, this may be altered to save the player's highscore and settings.
 
 ### **Functional Requirements**:
 **User interaction:**
