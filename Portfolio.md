@@ -102,8 +102,10 @@ The symbols used in the game will be generic and universal, for example, arrows 
 ### Flowcharts
 
 ### Storyboards
-<img src="Gameplay.png" width="400" height="500">
+
 <img src="Splashscreen.png" width="400" height="500">
+<img src="Gameplays.png" width="400" height="500">
+
 
 ### Gantt chart
 <img src="Gantt chart.png" width="900" height="900">
