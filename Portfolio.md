@@ -87,7 +87,7 @@ If a later version saves a player's settings and their high score, it will be do
 
 **Fairness and representation**:  
 Content within the game, including visuals, text and symbol,s will avoid harmful steryotypes and biases. The characters in the games are cats, which means the designs are neutral and unlikely to misrepresent any groups of players. 
-The audio used in gameplay will also be carefully selected to be without any lyrics and instead focus on the game's cute and enjoyable atmosphere while ensuring it remains suitable for all audiences.
+The audio used in gameplay will also be carefully selected to be without lyrics, focusing instead on the game's cute and enjoyable atmosphere while ensuring it remains suitable for all audiences.
 
 **Mental and emotional wellbeing**:  
  Tempotails is designed to provide an appealing and engaging experience, and therefore improbable to affect an individual's mental health, unless it is temporary frustration caused by the difficulty of the chart. 
@@ -98,6 +98,6 @@ The symbols used in the game will be generic and universal, for example, arrows 
 # Researching and Planning
 
 ### Gantt chart
-<img width="1384" height="256" alt="Gantt chart" src="https://github.com/user-attachments/assets/5d8efae4-534b-47bb-9bfe-95da0476ddcc" />
+<img src="Gantt chart.png" width="900" height="900">
 
 
