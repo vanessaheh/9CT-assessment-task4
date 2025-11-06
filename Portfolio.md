@@ -98,6 +98,9 @@ The symbols used in the game will be generic and universal, for example, arrows 
 # Researching and Planning
 
 ### Exploration of existing ideas
+<img src="Pjsekai.png" width="500" height="600">
+<img src="Friday.png" width="500" height="600">
+<img src="Cats.png" width="500" height="600">
 
 ### Flowcharts
 
