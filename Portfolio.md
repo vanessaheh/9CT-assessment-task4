@@ -103,7 +103,9 @@ The symbols used in the game will be generic and universal, for example, arrows 
 <img src="Cats.png" width="500" height="600">
 
 ### Flowcharts
-
+<img src="flowchart2.png" width="400" height="500">
+<img src="flowchart1.png" width="400" height="500">
+<img src="flowchart3.png" width="400" height="500">
 ### Pseudocode
 <img src="pseudocode.png" width="400" height="500">
 
