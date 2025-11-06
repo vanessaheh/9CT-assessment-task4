@@ -105,7 +105,7 @@ The symbols used in the game will be generic and universal, for example, arrows 
 ### Flowcharts
 
 ### Pseudocode
-<img src="timing.png" width="400" height="500">
+<img src="pseudocode.png" width="400" height="500">
 
 ### Storyboards
 
