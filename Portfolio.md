@@ -65,7 +65,7 @@ The game should be simple for all players to understand and navigate, with clear
 There will also be a tutorial page that can be opened in the corner of the splash screen with annotated images on core mechanics, controls and scoring system for first time users.
 
 **Scalability requirements**:  
-If I choose to add more content, there should be lag calibration, combo displayed at the side of the screen, new songs, difficulty levels for each chart, or note skins that serve as player rewards.
+If I choose to add more content, there should be lag calibration, a pause button activated with double shift during gameplay (exit/ retry), new songs, difficulty levels for each chart, or note skins that serve as player rewards.
 The system must be able to handle the increased content while the performance remains consistent and unaffected.
 
 
