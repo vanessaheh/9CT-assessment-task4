@@ -93,5 +93,9 @@ The audio used in gameplay will also be carefully selected to be without any lyr
 **Cultural sensitivites**:  
 The symbols used in the game will be generic and universal, for example, arrows on the keyboard and the settings logo in the splashscreen's top corner. Text in the tutorial will avoid using slang or words that would confuse international players, using simple and straightfoward language instead. Additionally, the colours should also be pleasant and visually comfortable without cultural connotations that could be misinterpreted.
 
+# Researching and Planning
+
+### Gantt chart
+<img width="1384" height="256" alt="Gantt chart" src="https://github.com/user-attachments/assets/5d8efae4-534b-47bb-9bfe-95da0476ddcc" />
 
 
